@@ -1,0 +1,3 @@
+[submodule "python-docs-es"]
+	path = python-docs-es
+	url = git@github.com:python/python-docs-es.git
