@@ -1,10 +1,12 @@
 ## Python Programs & Notebooks
 
+> 
+
 > Getting Started with Python in VS Code - [READ](https://code.visualstudio.com/docs/python/python-tutorial)
 
 <br />
-![Python Image](https://github.com/Koushikask/CPP.Programs/blob/master/Python-3.svg?raw=true)
-<!-- <img src="https://github.com/Koushikask/CPP.Programs/blob/master/Python-3.svg?raw=true" width="150px"> -->
+
+![Python Image](https://github.com/Koushikon/Py.Programs/blob/main/Python-3.svg?raw=true)
 <br />
 
 ### Python Docs
