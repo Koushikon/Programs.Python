@@ -22,3 +22,26 @@
 ### Python Compilers Online
 > [Replit](https://replit.com/languages/python3) ,
 > [ProgramiZ](https://www.programiz.com/python-programming/online-compiler/)
+
+
+<hr>
+
+### Installing Jupyter Notebook with `pip` Pakckage manager
+
+```
+    pip install notebook
+```
+- Now, inside the directory run -
+
+```
+    jupyter-notebook
+```
+
+<hr>
+
+### *Repository Structure*
+> ├───[Practiced](./Practiced/Readme.md) <br />
+> ├───Programs <br />
+> ├───python-docs-es <br />
+> ├───_Files <br />
+> └───Readme
