@@ -8,7 +8,7 @@
 
 <br />
 
-![Python Image](https://github.com/Koushikon/Py.Programs/blob/main/Python-3.svg?raw=true)
+![Python Image](./Python-3.svg?raw=true)
 <br />
 
 ### Python Docs
