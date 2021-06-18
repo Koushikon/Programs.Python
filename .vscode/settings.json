@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "python",
+    "jupyter.jupyterServerType": "local",
+    "cSpell.words": [
+        "Colaboratory",
+        "Programiz",
+        "Replit",
+        "elif",
+        "nonlocal"
+    ],
+    "files.defaultLanguage": "${activeEditorLanguage}"
+}
