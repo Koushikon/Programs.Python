@@ -1,7 +1,7 @@
 # num1 = input('Enter the 1st No. ')
 # num2 = input('Enter the 2nd No. ')
 # Or do this in one line.
-num1, num2 = input('Enter two numbersby sapce: ').split()
+num1, num2 = input('Enter two numbers space: ').split()
 
 try:
     num1 = int(num1)
