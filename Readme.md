@@ -2,7 +2,8 @@
 
 ![Python Image](./_Files/Python_banner.png)
 
-[![Lines Of Code](https://tokei.rs/b1/github.com/Koushikon/Py.Programs?category=code)](https://github.com/Koushikon/Py.Programs)
+&emsp;[![Open in VS Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/Koushikon/CPP.Programs)
+&emsp;[![Lines Of Code](https://tokei.rs/b1/github.com/Koushikon/Py.Programs?category=code)](https://github.com/Koushikon/Py.Programs)
 
 - 🐱‍🏍 Here almost every `Python` files are my Practice files. I learn all these from different `Websites`, `Apps`, `Online-Courses` and from my `Teacher`.
 
@@ -40,23 +41,45 @@
 | :--- |
 | [Python Keyword][pylnk0001] |
 
-### Inside VSCode `settings.json` configure
-
-In Python Path
-
-- With absolute path- `"python.pythonPath": "c:\\App\\Python\\Python39\\python.exe"`.
-- With relative path- `"python.pythonPath": "python"` but, In this case we have to set `python environment variable` on system first.
-
----
 
 ### *Repository Structure*
 
-> ├───.vscode <br />
-> ├───[Practiced][pylnk0002] <br />
-> ├───Programs <br />
-> ├───python-docs-es <br />
-> ├───_Files <br />
-> └───Readme
+```Bash
+├───.vscode
+├───Algo-Specialization
+├───Complete-Python-3-Bootcamp // Course Materials
+├───HR.Python
+├───Practiced
+│   ├───C2_Variables-Expressions
+│   ├───C3_Conditional-code
+│   ├───C4_Functions
+│   ├───C5_Loops-Iteration
+│   ├───C6_Strings
+│   ├───C7_Files
+│   ├───C8_Lists
+│   └───C9_Dictionary
+├───Programs
+├───python-docs-es // Python Docs
+└───_Files
+```
+
+---
+
+### Inside VSCode `settings.json` configure | 🛣 Python Path
+
+- With absolute path- 
+
+```JSON
+"python.pythonPath": "c:\\App\\Python\\Python39\\python.exe"`.
+```
+
+- With relative path but, In this case we have to set `python environment variable` on system first.
+
+```JSON
+"python.pythonPath": "python"`
+```
+
+---
 
 <!-- Links -->
 [pylnk0001]: ./Python%20Keywords.md
