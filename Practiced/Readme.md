@@ -1,3 +1,0 @@
-# Practiced
-
-Python Practiced Programs
