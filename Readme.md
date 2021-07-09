@@ -37,16 +37,17 @@
     jupyter-notebook
 ```
 
-| Readings |
-| :--- |
-| [Python Keyword][pylnk0001] |
-
-
 ### *Repository Structure*
+
+```Plain
+    HR -> HackerRank
+    HE -> HackerEarth
+    CF -> CodeForce
+```
 
 ```Bash
 ├───.vscode
-├───Algo-Specialization
+├───Algorithm-Specialization
 ├───Complete-Python-3-Bootcamp // Course Materials
 ├───HR.Python
 ├───Practiced
