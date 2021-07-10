@@ -1,4 +1,4 @@
-store = "I don't like write programs."
-handle = open('D:/PlayGround/PY.Programs./Files/first.txt', 'w')
+store = "I like write programs."
+handle = open('D:/PlayGround/PY.Programs./_Files/1-first.txt', 'w')
 
 handle.write(store)
