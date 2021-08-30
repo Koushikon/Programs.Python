@@ -1,7 +1,10 @@
 
 desktop.ini
 
+# Exclude Folders
 Wrongs/
 Cookbook/
+
+# Exclude Files
 HR.Python/8.py
 Programs/Age_calculator.py
