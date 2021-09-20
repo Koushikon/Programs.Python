@@ -47,20 +47,20 @@
 
 ```Bash
 ├───.vscode
-├───Algorithm-Specialization
-├───Complete-Python-3-Bootcamp // Course Materials
+├───02_Variables-Expressions
+├───03_Conditional
+├───04_Functions
+├───05_Loops-Iteration
+├───06_Strings
+├───07_Files
+├───08_Lists
+├───09_Dictionary
+├───10_Tuples
+├───11_Regex
+├───12_Networking
+├───Algorithms
 ├───HR.Python
-├───Practiced
-│   ├───C2_Variables-Expressions
-│   ├───C3_Conditional-code
-│   ├───C4_Functions
-│   ├───C5_Loops-Iteration
-│   ├───C6_Strings
-│   ├───C7_Files
-│   ├───C8_Lists
-│   └───C9_Dictionary
 ├───Programs
-├───python-docs-es // Python Docs
 └───_Files
 ```
 
