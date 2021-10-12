@@ -6,19 +6,11 @@
 	],
 	"python.pythonPath": "python",
     "jupyter.jupyterServerType": "local",
-    "cSpell.words": [
-        "Bootcamp",
-        "Colaboratory",
-        "Programiz",
-        "Replit",
-        "elif",
-        "nonlocal"
-    ],
 	"settings": {
 		"files.exclude": {
 			"**/*.ini": true,
 			"**/.git": true,
 		},
-		"files.defaultLanguage": "${activeEditorLanguage}"
+		"files.defaultLanguage": "${activeEditorLanguage}",
 	}
 }
